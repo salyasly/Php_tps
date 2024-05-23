@@ -44,7 +44,7 @@
             </tr>
             <tr>
                 <td><label for="idsexe">Votre sexe</label></td>
-                <td>
+                <td style="background-color: grey;">
                     <input type="radio" name="sexe" id="idsexe" value="M">M
                     <input type="radio" name="sexe" id="idsexe" value="F">F
                 </td>
